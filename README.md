@@ -1,6 +1,6 @@
-# Sonny's Car Wash Factory — Delivery Performance Dashboard (Power BI)
+# MNC Company — Delivery Performance Dashboard (Power BI)
 
-A Power BI dashboard built for **Sonny's — The Car Wash Factory** to track and analyze **On-Time Delivery (OTD)**, **Order Fill Rate**, and **Line Fill Rate** performance across Manufacturing plants, Parts plants, and Distribution Center (DC) warehouses — with YoY trend tracking and drill-through to sales order-level detail.
+A Power BI dashboard built for ** The Car Wash Factory** to track and analyze **On-Time Delivery (OTD)**, **Order Fill Rate**, and **Line Fill Rate** performance across Manufacturing plants, Parts plants, and Distribution Center (DC) warehouses — with YoY trend tracking and drill-through to sales order-level detail.
 
 ---
 
@@ -17,6 +17,9 @@ Sonny's operates multiple manufacturing plants, parts plants, and DC/parts wareh
 This dashboard consolidates ERP shipment data into a single Power BI model with slicers, KPI tiles, trend charts, conditional-formatted summary tables, and order-level drill-through.
 
 ---
+
+<img width="1427" height="762" alt="image" src="https://github.com/user-attachments/assets/399734df-004f-42a7-9cde-4bb9e3a67696" />
+
 
 ## 🎯 Business Problem
 
