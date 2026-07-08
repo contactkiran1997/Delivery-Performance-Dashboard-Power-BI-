@@ -33,6 +33,9 @@ This dashboard consolidates ERP shipment data into a single Power BI model with 
 
 ---
 
+<img width="1427" height="801" alt="image" src="https://github.com/user-attachments/assets/2a56a47e-df71-448d-94c6-db7878c4d84c" />
+
+
 ## ✅ Solution
 
 Built a multi-page Power BI report with:
@@ -47,6 +50,7 @@ Built a multi-page Power BI report with:
 8. **Global Slicers** — Delivery Bucket, Classification, Plant, Shipping Method, Month, and Year, synced across all pages, with a "Clear Slicers" button for fast reset.
 
 ---
+<img width="1425" height="801" alt="image" src="https://github.com/user-attachments/assets/1fee05cf-1899-4989-91b9-cf3ae1b14293" />
 
 ## 🧰 Tools & Tech Stack
 
